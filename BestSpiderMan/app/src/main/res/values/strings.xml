@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Best Spider-Man</string>
+    <string name="textview">Who is the best Spider-Man?</string>
+    <string name="toby_maguire">Toby Maguire</string>
+    <string name="andrew_garfield">Andrew Garfield</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="tom_holland">Tom Holland</string>
+    <string name="ans">-</string>
+</resources>
